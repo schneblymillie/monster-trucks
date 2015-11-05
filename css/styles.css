@@ -1,0 +1,38 @@
+  /* https://color.adobe.com/Summer-fun-color-theme-1004809/edit/?copy=true&base=2&rule=Custom&selected=0&name=Copy%20of%20Summer%20%20fun&mode=rgb&rgbvalues=0.184314,0.188235,0.172549,0.105882,0.32549,0.34902,0.74902,0.596078,0.541176,0.94902,0.364706,0.313725,0.45098,0.101961,0.101961&swatchOrder=0,1,2,3,4 */
+
+/*General Styles*/
+
+body {
+    font-family: oswald; 
+    font-weight: 100; 
+    color: rgb(47, 48, 44)
+}
+
+h1 {
+    font-family: oswald; 
+    font-weight: 700; 
+}
+h2 {
+    font-family: oswald; 
+    font-weight: 400; 
+}
+
+
+li{
+    list-style: none; 
+    display: inline-block; 
+    padding: 78px 0 106px 0; 
+    width: 33%; 
+    text-align: center; 
+}
+
+
+
+/*Links*/
+
+a {
+    color: rgb(27,83,89); 
+    text-decoration: none;
+    
+}
+
